@@ -11,7 +11,7 @@
 
 1. Clone the repository:
    ```bash
-   https://github.com/Sauravsandiego/probability-and-statistics.git
+   git clone https://github.com/Sauravsandiego/probability-and-statistics.git
    cd wine-quality-prediction
    ```
 
